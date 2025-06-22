@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doppler</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="central_freq">Central freq, Hz</string>
+    <string name="sound_speed_m_s">Sound speed, m/s</string>
+    <string name="rate_samples_s">Rate, samples/s</string>
+    <string name="fft_wnd_samples">FFT wnd, samples</string>
+    <string name="play">Play</string>
+</resources>
